@@ -1,0 +1,6 @@
+/nfs/student/d/dfranco/Desktop/zulu11.43.55-ca-fx-jdk11.0.9.1-linux_x64/bin/java -jar Bank.jar
+/nfs/student/d/dfranco/Desktop/zulu11.43.55-ca-fx-jdk11.0.9.1-linux_x64/bin/java -jar AuctionHouse.jar
+/nfs/student/d/dfranco/Desktop/zulu11.43.55-ca-fx-jdk11.0.9.1-linux_x64/bin/java -jar Agent.jar
+
+b146-21
+2500
